@@ -1,0 +1,20 @@
+/home/jrg/code/android-dev1/timer/bin/Timer-debug-unaligned.apk : \
+/home/jrg/code/android-dev1/timer/bin/Timer.ap_ \
+/home/jrg/code/android-dev1/timer/bin/classes.dex \
+/home/jrg/code/android-dev1/timer/src/timer_activity.rb \
+/home/jrg/code/android-dev1/timer/src/ruboto.rb \
+/home/jrg/code/android-dev1/timer/src/ruboto/util/stack.rb \
+/home/jrg/code/android-dev1/timer/src/ruboto/util/toast.rb \
+/home/jrg/code/android-dev1/timer/src/ruboto/broadcast_receiver.rb \
+/home/jrg/code/android-dev1/timer/src/ruboto/widget.rb \
+/home/jrg/code/android-dev1/timer/src/ruboto/activity.rb \
+/home/jrg/code/android-dev1/timer/src/ruboto/preference.rb \
+/home/jrg/code/android-dev1/timer/src/ruboto/version.rb \
+/home/jrg/code/android-dev1/timer/src/ruboto/base.rb \
+/home/jrg/code/android-dev1/timer/src/ruboto/package.rb \
+/home/jrg/code/android-dev1/timer/src/ruboto/menu.rb \
+/home/jrg/code/android-dev1/timer/src/ruboto/service.rb \
+/home/jrg/code/android-dev1/timer/src/ruboto/generate.rb \
+/home/jrg/code/android-dev1/timer/src/ruboto/legacy.rb \
+/home/jrg/bin/android-sdk-linux/tools/support/annotations.jar \
+/home/jrg/code/android-dev1/timer/libs/dexmaker20120305.jar \
